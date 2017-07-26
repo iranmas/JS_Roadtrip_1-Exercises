@@ -1,0 +1,4 @@
+const students = ['betty', 'jorge', 'floo-floo', 'frankie']
+
+for(let i = 0; i < studients.length; i++)
+console.log(i, students[i]);
